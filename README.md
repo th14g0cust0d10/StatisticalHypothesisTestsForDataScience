@@ -26,6 +26,6 @@ Cada teste estatístico será apresentado incluindo:
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://th14g0cust0d10.github.io/Customer_Churn/
+* https://th14g0cust0d10.github.io/StatisticalHypothesisTestsForDataScience/
 
 ---
